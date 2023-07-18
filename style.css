@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: aquamarine;
+    color: black;
+    padding: 10px;
+
+}
+.Party{
+    font-size: 40px;
+    color: blueviolet;
+    text-align: center;
+}
+footer p{
+    border: 5px solid pink;
+    padding: 5px;
+}
+.funy{
+    background-color:greenyellow;
+}
+.fasty{
+    color: blue;
+    font-size: 50px;
+}
+.finy{
+    font-size: 20px;
+}
